@@ -14,6 +14,7 @@
 
 #include <iostream>
 #include <assert.h>
+#include <string.h>
 #include "TcpSocket.h"
 
 namespace ucxx {

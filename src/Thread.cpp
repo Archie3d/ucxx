@@ -7,7 +7,7 @@
 
 #include <assert.h>
 #include "Mutex.h"
-#include "Semaphore.h"
+#include "Sema.h"
 #include "Thread.h"
 
 namespace ucxx {

@@ -9,9 +9,10 @@
 #   include <time.h>
 #   include <errno.h>
 #   include <stdlib.h>
+#   include <string.h>
 #endif
 #include <assert.h>
-#include "Semaphore.h"
+#include "Sema.h"
 
 namespace ucxx {
 
